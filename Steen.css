@@ -42,3 +42,7 @@ body {
 .sidenav h2 {
     margin: 10px;
 }
+
+.idk {
+    display: inline-flex;
+}
