@@ -1,16 +1,16 @@
 body {
-    background-color: rgb(41, 46, 51);
+    background-color: #1B2838;
     margin: 0px;
     padding: 0px;
 }
 .container1 {
-    background-color: rgb(246, 246, 246);
+    background-color: #1B2838;
     width: 100%;
     height: 75px;
     margin: 0px;
 }
 .container2 {
-    background-color: rgb(246, 246, 246);
+    background-color: #1B2838;
     width: 200px;
     height: 200px;
     border-radius: 50px;
@@ -23,7 +23,7 @@ body {
     z-index: 1;
     top: 0;
     right: 0;
-    background-color: rgb(246, 246, 246);
+    background-color: white;
     overflow-x: hidden;
 }
 
@@ -36,7 +36,7 @@ body {
 }
 
 .sidenav a:hover {
-    background-color: #13b8ce;
+    background-color: #46602A;
 }
 
 .sidenav h2 {
