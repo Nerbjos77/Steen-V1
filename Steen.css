@@ -15,6 +15,8 @@ body {
     height: 200px;
     border-radius: 50px;
     padding: 10px;
+    font-family: system-ui;
+    font-stretch: condensed;
 }
 .sidenav {
     height: 100%;
@@ -25,6 +27,8 @@ body {
     right: 0;
     background-color: #F7F7F7;
     overflow-x: hidden;
+    font-family: system-ui;
+    font-stretch: condensed;
 }
 
 .sidenav a {
