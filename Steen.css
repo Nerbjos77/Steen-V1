@@ -5,9 +5,10 @@ body {
 }
 .container1 {
     background-color: #F7F7F7;
-    width: 100%;
+    width: fit-content;
     height: 75px;
     margin: 0px;
+    
 }
 .container2 {
     background-color: #16202D;
