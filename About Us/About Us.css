@@ -1,3 +1,4 @@
+ HEAD
 body {
     background-color: #1B2838;
     margin: 0px;
@@ -9,7 +10,18 @@ body {
     width: 100%;
     height: 75px;
     margin: 0px;
-    
+}
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #F7F7F7;
+    overflow-x: hidden;
+    font-family: system-ui;
+    font-stretch: condensed;
 }
 .container2 {
     background-color: #16202D;
@@ -38,25 +50,4 @@ body {
     overflow-x: hidden;
     font-family: system-ui;
     font-stretch: condensed;
-}
-
-.sidenav a {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 25px;
-    color: black;
-    display: block;
-}
-
-.sidenav a:hover {
-    background-color: #69963a;
-}
-
-.sidenav h2 {
-    margin: 10px;
-}
-
-.idk {
-    display: inline-flex;
-    color: black;
 }
